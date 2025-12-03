@@ -1,0 +1,37 @@
+Exercícios Banco de Dados
+
+1. Em que ano o modelo relacional de banco de dados foi desenvolvido?
+
+Em 1970.
+
+2. Quem é considerado o "pai dos bancos de dados relacionais"?
+
+Edgar F. Codd
+
+3. Explique a diferença de um banco de Dados, um Sistema Gerenciador de Banco de Dados e um Sistema de Banco de Dados.
+
+Banco de Dados: Conjunto organizado de dados que pode ser armazenado e acessado de forma eficiente. 
+
+Sistema Gerenciador de Banco de Dados (SGBD): Software que permite a criação, manipulação e gerenciamento do banco de dados. 
+
+Sistema de Banco de Dados (SBD): Sistema que permite armazenar, recuperar e relacionar dados dentro do banco de dados. 
+
+4. Quais são as principais características de um banco de dados?
+
+Um banco de dados é um sistema estruturado para armazenar, gerenciar e recuperar informações de forma eficiente. Ele é essencial para diversas aplicações, desde sistemas empresariais até redes sociais, garantindo organização, segurança e acessibilidade dos dados.
+
+5. Quais são os diferentes níveis de abstração em um banco de dados?
+
+Físico (interno): como os dados são armazenados no disco.
+
+Lógico (conceitual): como os dados estão organizados e relacionados.
+
+Externo (visão): como cada usuário enxerga os dados, de acordo com sua necessidade.
+
+6. Liste as vantagens de um banco de dados.
+
+Organização eficiente – dados centralizados e estruturados, evitando redundância.
+
+Segurança – controle de acesso e proteção de informações sensíveis.
+
+Facilidade de acesso – consultas rápidas e precisas por meio de linguagens como SQL.
